@@ -1,4 +1,4 @@
-local whitelisted = {"";"";"";};
+local whitelisted = {"yes1";"";"";};
 local blacklisted = {"siff";"siffori";"";};
 
 wl = false
