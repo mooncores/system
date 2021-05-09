@@ -1,1 +1,1 @@
-print("bruh")
+local whitelisted = {"qwe";"ewq";"wqe";};
