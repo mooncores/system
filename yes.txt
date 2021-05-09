@@ -6,3 +6,10 @@ if _G.key == v then
     yes = true
 end
 end
+
+if yes then
+    print("logged in")
+    else
+        while true do
+        end
+end
